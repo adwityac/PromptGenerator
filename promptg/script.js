@@ -1,8 +1,8 @@
 // Secure credentials (replace with environment variables in production)
-const UNSPLASH_API_KEY = 'c4EdfVpeMdm2PmhkY3icvzNzbK9gy7OBzraExnBA6GI';
+const UNSPLASH_API_KEY = 'your_api_key';
 const UNSPLASH_BASE_URL = 'https://api.unsplash.com';
-const SPOTIFY_CLIENT_ID = '93199674f4034147af28b4a461387005';
-const SPOTIFY_CLIENT_SECRET = '0733d7bd6bf74c3287971610558ed691';
+const SPOTIFY_CLIENT_ID = 'your_client_id';
+const SPOTIFY_CLIENT_SECRET = 'your_client_secret';
 
 // DOM Elements
 const promptSelector = document.getElementById('promptSelector');
